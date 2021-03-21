@@ -10,6 +10,6 @@ license_text:
 categories:
   - Αρχέτυπα
 tags:
-  - Touchscreen 
-  - Multitouch
+  - touchscreen 
+  - multitouch
 ---

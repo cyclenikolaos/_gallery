@@ -7,8 +7,9 @@ year: 1953
 license_url: 'https://en.wikipedia.org/wiki/Fortran#/media/File:IBM_704_mainframe.gif'
 license_text: 
 categories:
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία και Τεχνικές
+  - Προγραμματισμός
 tags:
-  - FORTRAN
+  - programming
   - language 
 ---

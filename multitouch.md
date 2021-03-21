@@ -7,7 +7,7 @@ caption: Η τεχνολογία οθόνης multitouch είναι εξέλιξ
 license_url: 'https://en.wikipedia.org/wiki/Multi-touch#/media/File:Multitouch_screen.svg' 
 license_text:
 categories:
-  - Αρχέτυπα
+  - Εργαλεία και Τεχνικές
 tags:
   - Touchscreen 
   - Multitouch

@@ -8,7 +8,6 @@ license_url: 'https://en.wikipedia.org/wiki/Fortran#/media/File:IBM_704_mainfram
 license_text: 
 categories:
   - Εργαλεία και Τεχνικές
-  - Προγραμματισμός
 tags:
   - programming
   - language 
